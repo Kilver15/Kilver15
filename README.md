@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kilver15/Kilver15/output/snake.svg" alt="Snake animation" />
-
 ###
