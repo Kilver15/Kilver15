@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/_B4QaT_C3WsAAAAd/bulbasaur-pokemon.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="10" />
@@ -34,11 +30,21 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="joseivan1109@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<h2>My interests</h2>
+<div align="center" display="flex">
+  <img title="Pokemon" align="center" height="150" src="https://media1.tenor.com/m/_B4QaT_C3WsAAAAd/bulbasaur-pokemon.gif"  />
+  <img title="Toluca FC" align="center" height="150" src="https://media1.tenor.com/m/rxf37IijDAQAAAAC/tolucafc-toluca.gif"  />
+  <img title="Star Wars" align="center" height="150" src="https://media1.tenor.com/m/QFUWnfRIGPEAAAAd/darth-vader-star-wars.gif"  />
+  <img title="Videogames" align="center" height="150" src="https://media.tenor.com/ClZj5L5o2iYAAAAi/bs-like.gif"  />
 </div>
 
 ###
